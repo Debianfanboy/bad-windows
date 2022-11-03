@@ -39,4 +39,4 @@ print("playing")
 for frame in frames:
     print(frame)
     sleep(0.06272)
-    system("clear")
+    system("cls")
