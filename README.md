@@ -1,6 +1,6 @@
-# Bad Apple!! Played on windows!
+# Bad Apple!! Played on Windows!
 
-## How do I use?
+## How do I use this?
 
 ### Installing
 
@@ -26,5 +26,5 @@ If you like the project there are a few things you can do
 
 ### Well I don't want to do any of those... What else is there?
 
-If you cannot code no worries! Make you can say hello on discord at Apolloiscool#7891
+If you cannot code no worries! Maybe you can say hello on discord at Apolloiscool#7891
 I am always willing to meet new Bad Apple fans!
